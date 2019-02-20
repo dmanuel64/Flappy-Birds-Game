@@ -1,0 +1,31 @@
+assets\world_4
+25
+12
+100 100
+null
+b_pipe=med t_pipe=high null
+b_pipe=high t_pipe=high item::WIND=high
+b_pipe=med null item::COIN=high
+b_pipe=low null item::WIND=low
+b_pipe=high null item::COIN=low
+b_pipe=low null item::WIND=high
+b_pipe=high null item::COIN=med
+b_pipe=med null null
+b_pipe=high null null
+b_pipe=high null item::WIND=low
+b_pipe=low null null
+b_pipe=med null item::COIN=low
+b_pipe=high null null
+b_pipe=med null item::WIND=low
+b_pipe=low null null
+b_pipe=high null item::WIND=med
+b_pipe=high null item::WIND=med
+b_pipe=med null null
+b_pipe=low null null
+b_pipe=high null null
+b_pipe=low null item::COIN=high
+b_pipe=high null null
+b_pipe=med null item::COIN=low
+b_pipe=low null null
+b_pipe=low null null
+30 4-4

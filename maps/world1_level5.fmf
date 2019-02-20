@@ -1,0 +1,26 @@
+assets\world_1
+20
+14
+600 0
+null
+b_pipe=high null null
+b_pipe=low null item::WIND=high
+b_pipe=high null item::COIN=high
+b_pipe=high null item::WIND=med
+b_pipe=low null debuff::BIRD_SWARM_DEBUFF=med
+b_pipe=high null item::COIN=high
+b_pipe=med null item::COIN=med
+b_pipe=low null item::WIND=med
+b_pipe=med null item::WIND=low
+b_pipe=high null item::WIND=med
+b_pipe=low null debuff::BIRD_SWARM_DEBUFF=low
+b_pipe=med null item::COIN=low
+b_pipe=low null item::WIND=low
+b_pipe=med null debuff::BIRD_SWARM_DEBUFF=high
+b_pipe=high null debuff::BIRD_SWARM_DEBUFF=high
+b_pipe=low null debuff::BIRD_SWARM_DEBUFF=low
+b_pipe=high null debuff::BIRD_SWARM_DEBUFF=high
+b_pipe=low null item::COIN=low
+b_pipe=high null item::WIND=high
+b_pipe=low null item::WIND=med
+30 3-1

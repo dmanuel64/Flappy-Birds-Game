@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 10, 2018, 7:28:29 PM
+    Author     : dylan
+*/
+ 
+#shopRoot{
+    
+}
+
+.label{
+    
+}
+
+.button{
+    -fx-text-fill: black;
+    -fx-font: 20 "Algerian";
+    -fx-border-color: darkgray;
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+    -fx-effect: dropshadow(gaussian , black , 1,1,2,2);
+    -fx-fit-to-width: true;
+}
